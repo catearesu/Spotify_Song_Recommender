@@ -1,2 +1,2 @@
-## Spotify Song Recommender
+Spotify Song Recommender
 
